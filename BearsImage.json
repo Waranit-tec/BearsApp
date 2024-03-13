@@ -1,0 +1,5 @@
+[
+    {"id" : "1" ,"image" : "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/67/28/8c6728f2-3ca2-373a-2a89-6ccf99acdad0/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg","name" : "Love"},
+    {"id" : "2" ,"image" : "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3b/71/6d/3b716d22-f61a-52df-c006-d2fbd63ce75b/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg", "name" : "Me Time"},
+    {"id" : "3", "image" : "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/eb/81/73/eb817393-99ef-c8ae-cdee-b7f456dafa4f/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg", "name" : "Family"}
+]
